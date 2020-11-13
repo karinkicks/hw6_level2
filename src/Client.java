@@ -5,7 +5,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 public class Client {
-    /*private Socket socket;
+    private Socket socket;
     private DataInputStream in;
     private DataOutputStream out;
     boolean flag=true;
@@ -77,5 +77,5 @@ public class Client {
     }
     public static void main(String[] args) {
         Client client = new Client();
-    }*/
+    }
 }

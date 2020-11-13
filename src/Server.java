@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 public class Server {
-    /*private ServerSocket serverSocket;
+    private ServerSocket serverSocket;
     private Socket clientSocket;
     private DataInputStream in;
     private DataOutputStream out;
@@ -86,5 +86,5 @@ public class Server {
 
     public static void main(String[] args) {
         new Server();
-    }*/
+    }
 }
